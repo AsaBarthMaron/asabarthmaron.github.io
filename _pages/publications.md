@@ -1,8 +1,11 @@
 ---
 layout: archive
-title: "News"
+title: "Publications"
 permalink: /publications/
 author_profile: true
+---
+
+News
 ---
 https://www.simonsfoundation.org/2021/02/25/the-connected-connectome/
 
