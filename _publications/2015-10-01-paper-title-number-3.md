@@ -8,3 +8,5 @@ date: 2021-05-25
 venue: 'eLife'
 paperurl: 'https://elifesciences.org/articles/66018'
 citation: 'Schlegel, Philipp, Alexander Shakeel Bates, Tomke Stürner, Sridhar R Jagannathan, Nikolas Drummond, Joseph Hsu, Laia Serratosa Capdevila, et al. “Information Flow, Cell Types and Stereotypy in a Full Olfactory Connectome.” ELife 10 (May 25, 2021): e66018.'
+
+---
