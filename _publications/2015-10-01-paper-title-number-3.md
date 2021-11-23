@@ -1,7 +1,6 @@
 ---
 title: "Information flow, cell types and stereotypy in a full olfactory connectome"
 collection: publications
-permalink: /publication/2021-05-25-eLife
 permalink: https://elifesciences.org/articles/66018
 excerpt: 'The hemibrain connectome provides large-scale connectivity and morphology information for the majority of the central brain of Drosophila melanogaster. Using this data set, we provide a complete description of the Drosophila olfactory system, covering all first, second and lateral horn-associated third-order neurons. We develop a generally applicable strategy to extract information flow and layered organisation from connectome graphs, mapping olfactory input to descending interneurons. This identifies a range of motifs including highly lateralised circuits in the antennal lobe and patterns of convergence downstream of the mushroom body and lateral horn. Leveraging a second data set we provide a first quantitative assessment of inter- versus intra-individual stereotypy. Comparing neurons across two brains (three hemispheres) reveals striking similarity in neuronal morphology across brains. Connectivity correlates with morphology and neurons of the same morphological type show similar connection variability within the same brain as across two brains.'
 date: 2021-05-25
