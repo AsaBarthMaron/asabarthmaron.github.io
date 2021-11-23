@@ -8,8 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-TODO - write About me section
-
-Press
-======
-https://www.simonsfoundation.org/2021/02/25/the-connected-connectome/
+TODO - About section
