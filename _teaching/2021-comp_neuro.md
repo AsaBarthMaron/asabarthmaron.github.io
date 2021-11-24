@@ -4,7 +4,7 @@ collection: teaching
 type: "Course"
 permalink: /teaching/2021-comp_neuro
 venue: "Harvard University"
-date: 2021, Fall
+date: 2021-01-01
 location: "Cambridge, USA"
 ---
 
