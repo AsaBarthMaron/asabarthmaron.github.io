@@ -1,8 +1,8 @@
 ---
-title: "Information flow, cell types and stereotypy in a full olfactory connectome"
+title: "Multilayer recurrent network models of primate retinal ganglion cell responses"
 collection: publications
-permalink: /publications/thesis_paper
-excerpt: '**Barth-Maron A.**, Horne J.A., Katz W.T., Plaza S.M., Scheffer L.K., D'Alessandro I., Meinertzhagen I.A., Lee W.A., Wilson R.I. “What is the role of interneuron diversity in the Drosophila antennal lobe?” *In preparation*.'
-date: 2022
-venue: '*In Preparation*'
+permalink: /publication/thesis_paper
+excerpt: 'Batty, E. Merel, J., Brackbill, N., Heitman, A., Sher, A., Litke, A., Chichilnisky, E., Paninski, L. "Multilayer recurrent network models of primate retinal ganlion cell responses."  International Conference on Learning Representations 2017.'
+date: 2017-04-01
+venue: 'ICLR'
 ---
