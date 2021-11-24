@@ -1,8 +1,8 @@
 ---
-title: "Multilayer recurrent network models of primate retinal ganglion cell responses"
+title: "Heterogenous populations of interneurons in the Drosophila antennal lobe support distinct computations and provide flexible coding across shifts in input statistics"
 collection: publications
 permalink: /publication/thesis_paper
-excerpt: "Asa Barth-Maron, Jane Anne Horne, William Katz, Stephen Plaza, Louis Scheffer, Isabel D'Alessandro, Ian Meinertzhagen, Wei-Chung Lee , Rachel Wilson. “Heterogenous populations of interneurons in the Drosophila antennal lobe support distinct computations that provide flexible coding across shifts in input statistics.” In preparation."
-date: 2017-04-01
-venue: 'ICLR'
+excerpt: "**Asa Barth-Maron**, Jane Anne Horne, William T Katz, Stephen M Plaza, Louis K Scheffer, Isabel D'Alessandro, Ian A Meinertzhagen, Wei-Chung A Lee , Rachel I Wilson. “Heterogenous populations of interneurons in the Drosophila antennal lobe support distinct computations and provide flexible coding across shifts in input statistics.” *In preparation.*"
+date: 202
+venue: '*In preparation.*'
 ---
