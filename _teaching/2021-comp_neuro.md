@@ -1,10 +1,10 @@
 ---
-title: "Teaching Fellow"
+title: "Teaching Fellow for Introduction to Computational Neuroscience"
 collection: teaching
 type: "Course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2021-comp_neuro
 venue: "Harvard University"
-date: 2021 Fall
+date: 2021, Fall
 location: "Cambridge, USA"
 ---
 
