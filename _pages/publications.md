@@ -7,8 +7,7 @@ author_profile: true
 
 News
 ---
-https://www.simonsfoundation.org/2021/02/25/the-connected-connectome/
-
+[The Connected Connectome](https://www.simonsfoundation.org/2021/02/25/the-connected-connectome/). Liam Drew, Simons Foundation (February 25, 2021). The most comprehensive wiring map to date of the fruit fly brain has transformed the field of neuroscience, identifying new cell types and reconfiguring circuit models.
 
 Publications
 ======
