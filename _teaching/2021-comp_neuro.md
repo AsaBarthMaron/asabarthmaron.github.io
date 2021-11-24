@@ -7,5 +7,3 @@ venue: "Harvard University"
 date: 2021-01-01
 location: "Cambridge, USA"
 ---
-
-Taught sections, including linear algebra, python, and probability review. 
