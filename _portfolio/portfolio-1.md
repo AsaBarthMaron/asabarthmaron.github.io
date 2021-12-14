@@ -1,6 +1,6 @@
 ---
 title: "EEG motor imagery"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/fbcsp_results.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/fbcsp_results.png' width='200'>"
 collection: portfolio
 ---
 
