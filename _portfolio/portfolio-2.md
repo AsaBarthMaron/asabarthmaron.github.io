@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/model_input_gain_response_gain.jpg>"
+title: "Distinct computations provide flexible coding across shifts in input statistics"
+excerpt: "Short description of portfolio item number 1<br/><img src='model_input_gain_response_gain.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+https://github.com/AsaBarthMaron/eeg_motor_imagery
