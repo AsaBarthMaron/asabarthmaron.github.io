@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher in Rachel Wilson’s lab at Harvard University, where I recently obtained my PhD. My research focused on how network architecture supports computations during sensory encoding. I am broadly interested in the intersection between neuroscience and machine learning, data science, and ML applications for biology.
+Data scientist at Neumora Therapeutics, and systems and computational neuroscientist by training. Excited about the intersection of neuroscience, machine learning, and data science.
