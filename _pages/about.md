@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Data scientist at Neumora Therapeutics, and systems and computational neuroscientist by training. Excited about the intersection of neuroscience, machine learning, and data science.
+I am a Data Scientist at Neumora Therapeutics, with interdisciplinary expertise in machine learning, biochemistry, drug development, and neuroscience. I am interested in developing and applying methods for learning representations and generating insight from biological data for drug discovery.
