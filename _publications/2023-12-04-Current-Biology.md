@@ -1,7 +1,7 @@
 ---
 title: "Interactions between specialized gain control mechanisms in olfactory processing"
 collection: publications
-permalink: /publications/2023-12-04_Current_Biology
+permalink: /publications/2023-12-04-Current-Biology
 excerpt: '**Barth-Maron A.**, D'Alessandro I., Wilson R.I. (2023). Interactions between specialized gain control mechanisms in olfactory processing. Current Biology 33 (23), 5109-5120. e7'
 date: 2023-12-04
 venue: 'Current Biology'
