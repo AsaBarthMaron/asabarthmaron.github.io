@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist at Neumora Therapeutics, with interdisciplinary expertise in machine learning, biochemistry, drug development, and neuroscience. I am interested in developing and applying methods for learning representations and generating insight from biological data for drug discovery.
+Computational scientist with expertise applying machine learning to drug discovery. Strong interdisciplinary background, with domain knowledge in cellular biology, biochemistry, and deep learning.
