@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Computational scientist with expertise applying machine learning to drug discovery. Strong interdisciplinary background, with domain knowledge in cellular biology, biochemistry, and deep learning.
+Researcher with expertise applying machine learning to drug discovery. Strong interdisciplinary background, with domain knowledge in cellular biology, biochemistry, and deep learning.
